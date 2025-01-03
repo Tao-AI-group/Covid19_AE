@@ -23,11 +23,15 @@ Each post/report in the dataset is accompanied by:
 
 Both files share the same filename for the same post/report. All annotations were conducted using the [CLAMP annotation tool](https://clamp.uth.edu/).
 
+## Reference Example
+
+![Example Annotation](/clamp_annotation.png)
+
 ### Example
 
 #### Original Post (in `.txt` file):
 ```text
-I got my first shot of the Moderna vaccine yesterday. Today, I have a sore arm and feel tired. I slept a lot.
+My first shot of moderna vaccine = very sore arm the next day and very tired so I slept a lot.
 ```
 
 #### Corresponding Annotation (in `.ann` file):
@@ -56,9 +60,6 @@ The `.ann` files use a standard format for NLP tasks:
 - **Start and End Offsets**: Represent the character positions in the original text.
 - **Text Span**: Contains the annotated text corresponding to the offsets.
 
-## Reference Example
-
-![Example Annotation](/clamp_annotation.png)
 
 ## Citation
 

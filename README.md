@@ -23,11 +23,9 @@ Each post/report in the dataset is accompanied by:
 
 Both files share the same filename for the same post/report. All annotations were conducted using the [CLAMP annotation tool](https://clamp.uth.edu/).
 
-## Reference Example
+## Example
 
 ![Example Annotation](/clamp_annotation.png)
-
-### Example
 
 #### Original Post (in `.txt` file):
 ```text

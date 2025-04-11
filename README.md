@@ -63,10 +63,10 @@ The `.ann` files use a standard format for NLP tasks:
 
 Please refer to the following paper for more details:
 
-> Li, Yiming, Deepthi Viswaroopan, William He, Jianfu Li, Xu Zuo, Hua Xu, and Cui Tao. "Improving Entity Recognition using ensembles of Deep Learning and Fine-tuned large Language models: a case study on adverse event extraction from multiple sources." *arXiv preprint arXiv:2406.18049* (2024). [https://doi.org/10.48550/arXiv.2406.18049](https://doi.org/10.48550/arXiv.2406.18049)
+> Li, Yiming, Deepthi Viswaroopan, William He, Jianfu Li, Xu Zuo, Hua Xu, and Cui Tao. 2025. “Improving Entity Recognition Using Ensembles of Deep Learning and Fine-Tuned Large Language Models: A Case Study on Adverse Event Extraction from VAERS and Social Media.” Journal of Biomedical Informatics 163 (March):104789. https://doi.org/10.1016/j.jbi.2025.104789. 
 
 For reuse of this dataset, please cite the following works:
 
-1. Li, Yiming, Deepthi Viswaroopan, William He, Jianfu Li, Xu Zuo, Hua Xu, and Cui Tao. "Improving Entity Recognition using ensembles of Deep Learning and Fine-tuned large Language models: a case study on adverse event extraction from multiple sources." *arXiv preprint arXiv:2406.18049* (2024). [https://doi.org/10.48550/arXiv.2406.18049](https://doi.org/10.48550/arXiv.2406.18049)
+1. Li, Yiming, Deepthi Viswaroopan, William He, Jianfu Li, Xu Zuo, Hua Xu, and Cui Tao. 2025. “Improving Entity Recognition Using Ensembles of Deep Learning and Fine-Tuned Large Language Models: A Case Study on Adverse Event Extraction from VAERS and Social Media.” Journal of Biomedical Informatics 163 (March):104789. https://doi.org/10.1016/j.jbi.2025.104789.
 
 2. Lian, Andrew T., Jingcheng Du, and Lu Tang. 2022. "Using a Machine Learning Approach to Monitor COVID-19 Vaccine Adverse Events (VAE) from Twitter Data." *Vaccines 10 (1): 103.* [https://doi.org/10.3390/vaccines10010103](https://doi.org/10.3390/vaccines10010103)
